@@ -13,7 +13,7 @@ Data Engineering Enthusiast<br/>
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=E35A16" height="25"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" height="25"/>
