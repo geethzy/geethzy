@@ -12,50 +12,61 @@ Data Engineering Enthusiast<br/>
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="25"/>
+   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Hadoop-FF7F50?style=flat&logo=apache-hadoop&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Spark-FFD700?style=flat&logo=apache-spark&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" height="25"/>
   <img src="https://img.shields.io/badge/-Hive-6A5ACD?style=flat&logo=apache-hive&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Airflow-1E90FF?style=flat&logo=apache-airflow&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Kafka-FF4500?style=flat&logo=apache-kafka&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Impala-2E8B57?style=flat&logo=apache-impala&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Snowflake-00BFFF?style=flat&logo=snowflake&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-FF6347?style=flat&logo=power-bi&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-MySQL-4169E1?style=flat&logo=mysql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-SQL%20Server-1E90FF?style=flat&logo=microsoft-sql-server&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-008080?style=flat&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-MariaDB-00FFFF?style=flat&logo=mariadb&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Cassandra-800000?style=flat&logo=apache-cassandra&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25"/>
+ <p/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Azure-008AD7?style=flat&logo=microsoft-azure&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker" height="25"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=jetbrains&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252
 </p>
 
 
