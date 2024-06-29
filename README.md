@@ -22,13 +22,13 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache_Hadoop-FFFFFF?style=for-the-badge&logo=apache-hadoop&logoColor=E35A16" height="25"/>
+  <img src="https://img.shields.io/badge/Apache_Hive-6A5ACD?style=for-the-badge&logo=apache-hive&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apache-spark&logoColor=E35A16" height="25"/>
   <img src="https://img.shields.io/badge/-Hive-6A5ACD?style=flat&logo=apache-hive&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Impala-FFFFFF?style=for-the-badge&logo=apache-impala&logoColor=E35A16" height="25"/>
-  <img src="https://img.shields.io/badge/Snowflake-FFFFFF?style=for-the-badge&logo=snowflake&logoColor=E35A16" height="25"/>
+  <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
