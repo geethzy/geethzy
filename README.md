@@ -1,9 +1,8 @@
-<br/>
-<br/>
-### Hi👋 , I'm Chathurika!🐧 
+### Hi👋
 
 <img align="right" alt="GIF" height="150px" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
-
+<br/>
+I'm Chathurika!🐧 <br/>
 Data Engineering Enthusiast<br/>
 ☕ 🎶<br/>
 
@@ -12,7 +11,6 @@ Data Engineering Enthusiast<br/>
 🔎 Constantly learning and exploring new tools, and technologies.<br/>
 
 ---
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="25"/>
@@ -42,7 +40,7 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Azure-008AD7?style=flat&logo=microsoft-azure&logoColor=white" height="25"/>
 </p>
 
@@ -59,6 +57,8 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white" height="25"/>
 </p>
+
+
 
 
 
