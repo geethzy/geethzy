@@ -1,12 +1,14 @@
 ### Hi👋 , I'm Chathurika!🐧 
 
-<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
+<img align="right" alt="GIF" height="150px" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
+
 
 Data Engineering Enthusiast<br/>
 ☕ 🎶<br/>
 
-🌼 Currently working on projects involving data engineering.<br/>
-🔎 Constantly learning and exploring new technologies.<br/>
+
+🤓 Currently immersed in diverse projects that span data pipelines, cloud solutions, and more.<br/>
+🔎 Constantly learning and exploring new tools, and technologies.<br/>
 
 ---
 
