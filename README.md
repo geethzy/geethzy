@@ -46,5 +46,12 @@ Data Engineering Enthusiast<br/>
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
+<img src="https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/-SQL-222222?style=flat&logo=postgresql&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/-Impala-222222?style=flat&logo=apache-impala&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon-aws&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/-RStudio-222222?style=flat&logo=rstudio&logoColor=white" height="30" />
+
+
 <br/>
----
+
