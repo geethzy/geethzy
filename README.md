@@ -23,7 +23,7 @@ Data Engineering Enthusiast<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Hadoop-FF7F50?style=for-the-badge&logo=apache-hadoop&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-FFD700?style=for-the-badge&logo=apache-spark&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=for-the-badge&logo=apache-spark&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Hive-6A5ACD?style=for-the-badge&logo=apache-hive&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
