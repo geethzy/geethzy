@@ -50,6 +50,12 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Cloudera-005EB8?style=for-the-badge&logo=cloudera&logoColor=white" height=25"/>
+  <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
+</p>
+
+<p align="center">
  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25"/>
