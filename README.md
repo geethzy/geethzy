@@ -7,7 +7,7 @@ Data Engineering Enthusiast<br/>
  🐳 ☕ 🎵<br/>
 
 <br/>
-🤓 Dived in projects that span data pipelines, workflow orchestrations, big data analytics, cloud solutions, and more. <br/>
+🤓 Dived in projects that span data pipelines, workflow orchestrations, big data analytics, and more. <br/>
 🔎 Constantly learning and exploring new tools, and technologies.<br/>
 
 ---
