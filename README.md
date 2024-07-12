@@ -56,6 +56,14 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HDInsight-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
