@@ -22,6 +22,15 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" height="25"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Apache_Hadoop-FF7F50?style=for-the-badge&logo=apache-hadoop&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Spark-FFA500?style=for-the-badge&logo=apache-spark&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Hive-6A5ACD?style=for-the-badge&logo=apache-hive&logoColor=white" height="25"/>
@@ -30,6 +39,14 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/Apache_Impala-2E8B57?style=for-the-badge&logo=apache-impala&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HDInsight-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
@@ -42,25 +59,12 @@ Data Engineering Enthusiast<br/>
  <p/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" height="25"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon_Redshift-FF9900?style=for-the-badge&logo=amazon-redshift&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/HDInsight-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25"/>
 </p>
 
 <p align="center">
@@ -72,15 +76,16 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="25">
 </p>
 
+<!-- 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25"/>
-  
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
 </p>
+-->
+
+
+
+
 
 
 
