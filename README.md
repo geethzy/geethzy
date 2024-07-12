@@ -45,6 +45,8 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/Amazon_EMR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/HDInsight-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/fabric-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="25"/>
+ 
 </p>
 
 <p align="center">
