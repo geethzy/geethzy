@@ -37,8 +37,6 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Impala-2E8B57?style=for-the-badge&logo=apache-impala&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
