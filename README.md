@@ -1,8 +1,8 @@
 ### Hi👋
 
 <img align="right" alt="GIF" height="150px" src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" />
-<br/>
 I'm Chathurika!🐧 <br/>
+<br/>
 Data Engineering Enthusiast<br/>
 ☕ 🎶<br/>
 
@@ -29,6 +29,7 @@ Data Engineering Enthusiast<br/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Apache_Impala-2E8B57?style=for-the-badge&logo=apache-impala&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Snowflake-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
 </p>
 
 <p align="center">
@@ -38,7 +39,6 @@ Data Engineering Enthusiast<br/>
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" height="25"/>
  <p/>
 
 <p align="center">
@@ -56,10 +56,12 @@ Data Engineering Enthusiast<br/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" height="25">
 </p>
 
 <p align="center">
